@@ -1,7 +1,6 @@
 # Gausian-Mixture-Model-for-Audio-Classification
 ## Overview
-This repository contains code for implementing a Gaussian Mixture Model (GMM) for audio classification using wavelet transform features. The GMM is trained to classify audio signals into predefined classes, making it useful for tasks such as speech recognition, environmental sound classification, and music genre classification.
-Certainly! Below is an explanation of the Gaussian Mixture Model (GMM) for audio classification:
+This repository contains code for implementing a Gaussian Mixture Model (GMM) for audio classification using wavelet transform features. The GMM is trained to classify audio signals into predefined classes, making it useful for tasks such as speech recognition, environmental sound classification.
 
 ---
 
