@@ -52,10 +52,9 @@ Wavelet transform is commonly used for feature extraction in audio processing ta
 3. **Denoising**: Wavelet transform is utilized for denoising noisy audio signals by separating the signal from unwanted noise components. The ability to localize signal and noise components in both time and frequency domains allows for effective noise reduction while preserving the integrity of the original audio signal.
 
 ### Conclusion
-Wavelet transform plays a crucial role in various aspects of audio processing, offering a powerful tool for analyzing, extracting features, and processing audio signals. Its ability to provide localized time-frequency information makes it well-suited for addressing the challenges posed by diverse audio signals encountered in real-world applications.
 
+In summary, the combination of Wavelet Transform and Gaussian Mixture Model (GMM) presents a robust framework for audio classification tasks. Wavelet Transform enables the extraction of localized time-frequency features from audio signals, addressing the challenges posed by diverse signal characteristics. These features are then effectively modeled using GMMs, capturing the underlying distribution of the data and facilitating accurate classification. Together, Wavelet Transform and GMM offer a powerful approach for analyzing, processing, and classifying audio signals in various real-world applications.
 
-### Conclusion
-In summary, the Gaussian Mixture Model (GMM) is a powerful probabilistic model for audio classification tasks. By modeling the distribution of feature vectors extracted from audio signals as a mixture of Gaussian distributions, GMMs can effectively capture the underlying structure of the data and provide accurate classification results.
-
----
+### Reference
+1. https://towardsdatascience.com/gaussian-mixture-model-clearly-explained-115010f7d4cf
+2. https://towardsdatascience.com/what-is-wavelet-and-how-we-use-it-for-data-science-d19427699cef
