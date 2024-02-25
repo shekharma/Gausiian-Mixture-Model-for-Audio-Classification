@@ -14,7 +14,7 @@ A GMM represents the probability distribution of the observed data as a weighted
 
 Mathematically, the probability density function (PDF) of a GMM is given by:
 
-\[ p(\mathbf{x}) = \sum_{k=1}^{K} \pi_k \mathcal{N}(\mathbf{x} | \boldsymbol{\mu}_k, \boldsymbol{\Sigma}_k) \]
+\[ p(x) = \sum_{k=1}^{K} \pi_k \mathcal{N}(\mathbf{x} | \boldsymbol{\mu}_k, \boldsymbol{\Sigma}_k) \]
 
 Where:
 - \( \mathbf{x} \) is the observed feature vector.
