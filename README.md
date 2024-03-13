@@ -57,3 +57,4 @@ In summary, the combination of Wavelet Transform and Gaussian Mixture Model (GMM
 ### Reference
 1. https://towardsdatascience.com/gaussian-mixture-model-clearly-explained-115010f7d4cf
 2. https://towardsdatascience.com/what-is-wavelet-and-how-we-use-it-for-data-science-d19427699cef
+3. https://adityadutt.medium.com/audio-classification-using-wavelet-transform-and-deep-learning-f9f0978fa246
