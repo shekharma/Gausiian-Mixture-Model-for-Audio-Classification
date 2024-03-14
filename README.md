@@ -15,7 +15,7 @@ The Expectation-Maximization (EM) algorithm is an iterative optimization method 
 
 
 ### How Expectation-Maximization (EM)  Algorithm Works:
-![image](https://github.com/shekharma/Gausiian-Mixture-Model-for-Audio-Classification/assets/122733304/8db68c82-8dcd-4b27-b3f1-bd809dfb1844) | ![image](https://github.com/shekharma/Gausiian-Mixture-Model-for-Audio-Classification/assets/122733304/3023d85b-d0a5-41dd-9595-61ea6e30833c) 
+ ![image](https://github.com/shekharma/Gausiian-Mixture-Model-for-Audio-Classification/assets/122733304/3023d85b-d0a5-41dd-9595-61ea6e30833c) 
 1.  Initialization:
 Initially, a set of initial values of the parameters are considered. A set of incomplete observed data is given to the system with the assumption that the observed data comes from a specific model.
 2.  E-Step (Expectation Step): In this step, we use the observed data in order to estimate or guess the values of the missing or incomplete data. It is basically used to update the variables. 
